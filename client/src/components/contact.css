@@ -1,0 +1,85 @@
+.contactmain{
+    
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: -13px 11px 13px -9px grey;
+    padding: 40px 50px 40px 50px;
+    width:60%;
+   
+    margin: auto;
+}
+.contactbox{
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: -13px 11px 13px -9px grey;
+    padding: 30px 30px 30px 30px;
+
+   
+    margin: auto;
+}
+.icondiv{
+   font-size: 18px;
+   color: #0d6efd;
+}
+.icondiv {
+    float: left;
+    width: 20%;
+   
+}
+.contentdivc{
+    float: left;
+    width: 80%;
+    
+}
+.contactbox h4{
+    font-size: 18px;
+    color:black;
+    font-weight: 700;
+    text-transform: capitalize;
+    font-family: sans-serif;
+}
+.contactbox p{
+    font-size: 14px;
+    color:black;
+    font-weight: 500;
+    text-transform: capitalize;
+    font-family: sans-serif;
+}
+.maindivcontact{
+    padding: 10vh 0vh 10vh 0vh;
+    background-color: #f7f7f7;
+    justify-content: center;
+}
+.contactmain h3{
+    font-size: 25px;
+    color:black;
+    font-weight: 800;
+    text-transform: capitalize;
+    font-family: sans-serif;
+   
+}
+.contactinputbox{
+    border-width: 1px 1px 1px 1px ;
+    border-radius: 5px;
+    font-weight: 500 !important;
+    font-size: 14px;
+    padding-left: 10px;
+}
+
+
+.buttoncontact{
+    background-color:#0d6efd;
+    color: white;
+    border-radius: 40px;
+    border-color: #0d6efd;
+    width: 20%;
+    box-shadow: -13px 11px 13px -9px grey;
+}
+.buttoncontact:hover{
+    background-color:#000;
+    color: #fff;
+    border-radius: 40px;
+    border-color: #000;
+    width: 30%;
+    box-shadow: -13px 11px 13px -9px grey;
+}

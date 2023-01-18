@@ -1,0 +1,71 @@
+.Register{
+    
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: -13px 11px 13px -9px grey;
+    padding: 40px 50px 40px 50px;
+    width:60%;
+    height: auto;
+    margin: auto;
+}
+.maindiv{
+    padding: 10vh 0vh 10vh 0vh;
+    background-color: #f8f8f8;
+    justify-content: center;
+}
+.Register h3{
+    font-size: 25px;
+    color:black;
+    font-weight: 800;
+    text-transform: capitalize;
+    font-family: sans-serif;
+   
+}
+.inputbox{
+    border-width: 0px 0px 1px 0px ;
+    border-radius: 0ch;
+    font-weight: 500 !important;
+    font-size: 14px;
+    padding-left: 0%;
+}
+
+.registerimg{
+    width: 272px;
+    height: auto;
+}
+.imagediv{
+    margin: auto;
+}
+.imagediv p{
+    font-size: 14px;
+    font-weight: 600;
+    color:black ;
+    text-align: center;
+    padding-top: 20px;
+}
+.buttonregister{
+    background-color:#0d6efd;
+    color: white;
+    border-radius: 40px;
+    border-color: #0d6efd;
+    width: 50%;
+    box-shadow: -13px 11px 13px -9px grey;
+}
+.buttonregister:hover{
+    background-color:#000;
+    color: #fff;
+    border-radius: 40px;
+    border-color: #000;
+    width: 50%;
+    box-shadow: -13px 11px 13px -9px grey;
+}
+.imagediv a{
+    text-decoration: none;
+}
+.adduser{
+    color: white;
+    background-color: #0d6efd;
+    padding: 10px 30px;
+    border-radius: 20px;
+text-decoration:none ;
+}
